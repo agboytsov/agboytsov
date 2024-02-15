@@ -15,13 +15,6 @@ Selenium
 
 
 
-Some projects:
-https://github.com/agboytsov/stepik1  - some exercises made on Stepik courses
-https://github.com/agboytsov/bit_dvmn - using bitly API for short-link terminal app (DVMN.org task)
-https://github.com/agboytsov/weathertask_dvmn getting weather via terminal (DVMN.org task)
-https://github.com/agboytsov/luggageinfototelegram - lost luggage info via telegram
-
-
 🔭 I’m currently working on:
 (1) Zemuch.ru - service for searching for land plots provided by the state.
 Tech stack:
