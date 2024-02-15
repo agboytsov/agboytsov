@@ -58,6 +58,12 @@ Backend - Flask, Jinja
 Frontend - JS
 Backend - FastAPI
 
+Some non-commercial projects:
+https://github.com/agboytsov/stepik1  - some exercises made on Stepik courses
+https://github.com/agboytsov/bit_dvmn - using bitly API for short-link terminal app (DVMN.org task)
+https://github.com/agboytsov/weathertask_dvmn getting weather via terminal (DVMN.org task)
+https://github.com/agboytsov/luggageinfototelegram - lost luggage info via telegram
+
 <!--
 **agboytsov/agboytsov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
