@@ -16,6 +16,13 @@ Selenium
 
 
 🔭 I’m currently working on:
+(0) Quniq.net - service for collaborative work, wiki part (backend)
+Tech stack:
+Fastapi
+SQLAlchemy
+ALembic
+Pytest
+
 (1) Zemuch.ru - service for searching for land plots provided by the state.
 Tech stack:
 Backend:
