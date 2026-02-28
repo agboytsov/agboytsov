@@ -1,5 +1,5 @@
 <h1>Hi there 👋</h1>
-I am a Python (and sometimes - JS) developer from Moscow with a strong legal (almost PhD in Law) background.
+I am a Fullstack Python (and vanilla js + Vue) senior developer from Moscow with a strong legal (almost PhD in Law) background.
 
 
 <h2>Key points:</h2>
@@ -23,17 +23,22 @@ I am a Python (and sometimes - JS) developer from Moscow with a strong legal (al
 </p>
 
 _______<br>
-<li>Python (3.9-3.12)</li>
-<li>PostgreSQL/Mysql/Sqlite</li>
-<li>Django, FastApi</li>
+<li>Python (3.9-3.14)</li>
+<li>GreenPlum/PostgreSQL/Mysql/MongoDB</li>
+<li>FastApi</li>
 <li>Aiogram, Aiogram-dialog</li>
-<li>Peewee</li>
 <li>SQLAlchemy, alembic</li>
-<li>Selenium, requests</li>
+<li>TortoiseORM</li>
+<li>Playwright, Selenium</li>
+<li>pytest</li>
 
 <br>
 <b>🔭 I’m currently working on:</b>
 <br>
+<h1>OTPBANK Data Governance</h1>
+<p>Data Governance team python leader. Making auto Data/Business lineage, Data Quality checks, ETL for Metadata store.</p>
+
+<b>Other projects: </b>
 <li>(0) Quniq.net - service for collaborative work, wiki part (backend)
 75% of backend code (FastAPI, SQLAlchemy, PostgreSQL, Docker, Pytest). Backend architecture, CI/CD, colaboration via Gitlab. Head of 2  other python developers - one middle and one rookie.</li>
 
