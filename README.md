@@ -38,6 +38,21 @@ _______<br>
 <h1>OTPBANK Data Governance</h1>
 <p>Data Governance team python leader. Making auto Data/Business lineage, Data Quality checks, ETL for Metadata store.</p>
 
+
+Tech stack:
+Fastapi
+SQLAlchemy/Tortoise ORM
+ALembic
+Pytest
+Docker, Docker-Compose
+
+Groovy
+Vue
+JS
+
+
+<hr>
+
 <b>Other projects: </b>
 <li>(0) Quniq.net - service for collaborative work, wiki part (backend)
 75% of backend code (FastAPI, SQLAlchemy, PostgreSQL, Docker, Pytest). Backend architecture, CI/CD, colaboration via Gitlab. Head of 2  other python developers - one middle and one rookie.</li>
